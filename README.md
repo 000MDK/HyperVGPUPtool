@@ -1,3 +1,4 @@
+
 # HyperVGPUPtool
 a.k.a FastGPUP by b1on1cdog with updates from Alexrgs and Razzmatazzz
 
@@ -6,6 +7,8 @@ https://github.com/Razzmatazzz/FastGPUP
 A GUI app to setup Hyper-V GPU-P
 
 This fork does not improve anything except integration (icon and name) and it's purpose is only to provide a release download.
+
+![image](https://github.com/000MDK/HyperVGPUPtool/assets/86747696/07d4f67e-2758-4194-be7e-8810ce37dc52)
 
 # original readme:
 
