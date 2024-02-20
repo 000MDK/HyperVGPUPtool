@@ -167,7 +167,8 @@
             Margin = new Padding(3, 2, 3, 2);
             Name = "Form1";
             Padding = new Padding(18, 60, 18, 15);
-            Text = "Fast GPU-P";
+            Text = "HyperVGPUPtool";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
